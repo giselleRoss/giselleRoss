@@ -13,7 +13,7 @@
 
 # Hey there, I'm Giselle Ross! 👋
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdtaXgyeGZ5a3Bza3E2dDQweHk4cnY5Z2pzNHVqeHI4dDJpOGZycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="400" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE3a3p5YjNpc24zajI4eDUzZ2RrZW1zdmhnenhycGQ4cWxuYW9yOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHLBmZ2Xmdvgc/giphy.gif" width="600" height="200"/>
 </div>
 
 ## :woman_technologist: About Me :
@@ -45,9 +45,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ## :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=giselleRoss&theme=buefy)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselleRoss)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=giselleRoss&theme=buefy)](https://git.io/streak-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselleRoss)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Feel free to reach out to me if you have any questions or want to collaborate on a project!
