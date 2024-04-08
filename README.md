@@ -18,13 +18,11 @@
 
 ## :woman_technologist: About Me :
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tampa, FL
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tampa, FL. I was previously in the healthcare industry with the military for 6 years. Before the end of my career, I decided to pursue software engineering. :telescope: I’m now working as a Software Engineer and contributing to frontend and backend projects for building web applications.
 
- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :seedling: Working on enhancing my skillset and building out projects.
 
-- :seedling: Working on .
-
-- :zap: In my free time, I enjoy spending time outdoors with my husband and 2 dogs. I love a good book and 
+- :zap: In my free time, I enjoy spending time outdoors with my husband and 2 dogs, reading a good book that I can learn from, and trying new vegan recipes. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-GiselleRoss-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gisellerosstech/)
 
