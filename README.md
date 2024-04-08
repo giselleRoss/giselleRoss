@@ -49,7 +49,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselleRoss)](https://github.com/anuraghazra/github-readme-stats)
 
-- **Website**: [Portfolio](https://giselle-portfolio.vercel.app/)
 
 Feel free to reach out to me if you have any questions or want to collaborate on a project!
 
