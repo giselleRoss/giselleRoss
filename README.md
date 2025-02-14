@@ -42,7 +42,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ## :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=giselleRoss&theme=buefy)](https://git.io/streak-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselleRoss)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=giselleRoss&theme=buefy)](https://git.io/streak-stats)   ![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=giselleRoss&show_icons=true&theme=transparent)
 
 
 Feel free to reach out to me if you have any questions or want to collaborate on a project!
