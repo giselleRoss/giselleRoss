@@ -18,8 +18,9 @@
 
 ## :woman_technologist: About Me :
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tampa, FL. I was previously in the healthcare industry with the military for 6 years. Before the end of my career, I decided to pursue software engineering. :telescope: I’m now working as a Software Engineer and contributing to frontend and backend projects for building web applications.
+I'm a Software Developer in the Tampa Bay area, and I take immense pride in my work. I always strive to give my best and find creative solutions to problems. It's like solving a fun puzzle every day! 🧩
 
+- :seedling: Working on enhancing my skillset and building out projects.
 - :seedling: Working on enhancing my skillset and building out projects.
 
 - :zap: In my free time, I enjoy spending time outdoors with my husband and 2 dogs, reading a good book that I can learn from, and trying new vegan recipes. 
