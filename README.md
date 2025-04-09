@@ -21,9 +21,8 @@
 I'm a Software Developer in the Tampa Bay area, and I take immense pride in my work. I always strive to give my best and find creative solutions to problems. It's like solving a fun puzzle every day! 🧩
 
 - :seedling: Working on enhancing my skillset and building out projects.
-- :seedling: Working on enhancing my skillset and building out projects.
 
-- :zap: In my free time, I enjoy spending time outdoors with my husband and 2 dogs, reading a good book that I can learn from, and trying new vegan recipes. 
+- :zap: In my free time, I enjoy spending time outdoors with my husband and 3 dogs, reading a good book that I can learn from, and trying new vegan recipes. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-GiselleRoss-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gisellerosstech/)
 
